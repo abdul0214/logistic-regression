@@ -1,6 +1,6 @@
 # Logistic-Regression
 K class Logistic Regression Classification based on K binary logistic classifiers
-Abstract—The aim of this report is to demonstrate the use of
+Abstract—The aim of this repo is to demonstrate the use of
 K-Binary Logistic Classifiers for K class classification as a valid
 and efficient technique compared to the relatively complex and
 computationally cumbersome Multiclass Logistic Regression
