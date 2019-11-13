@@ -6,7 +6,11 @@ and efficient technique compared to the relatively complex and
 computationally cumbersome Multiclass Logistic Regression
 techniques for K class classification such as the one implemented
 by MATLAB as mnrfit() in Statistics and Machine Learning
-Toolbox™. For testing purposes we used a dataset from UCI [1]
-data sets repository. The data set is described in detail in the
-report. Detailed formulation of the classification based on KBinary Logistic Classifiers is provided. The developed method
-can be downloaded as a MATLAB toolbox
+Toolbox™. 
+
+For testing purposes we used a dataset from UCI [1]data sets repository. The data set is described in detail in the report. 
+
+Detailed formulation of the classification based on K Binary Logistic Classifiers is provided. The developed method can be downloaded as a MATLAB toolbox
+
+The reported toolbox (developed package) performs up to 60 times faster with a slight-trade-off in accuracy.
+
