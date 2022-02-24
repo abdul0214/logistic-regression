@@ -8,7 +8,7 @@ techniques for K class classification such as the one implemented
 by MATLAB as mnrfit() in Statistics and Machine Learning
 Toolbox™. 
 
-For testing purposes we used a dataset from UCI [1]data sets repository. The data set is described in detail in the report. 
+For testing purposes we used a dataset from UCI [1]data sets repository. The data set is described in detail in the [Report](/report_logistic.pdf)
 
 Detailed formulation of the classification based on K Binary Logistic Classifiers is provided. The developed method can be downloaded as a MATLAB toolbox
 
